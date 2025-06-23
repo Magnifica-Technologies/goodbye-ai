@@ -1,5 +1,5 @@
 # goodbye-ai
-A fun Chrome Extension that obfuscates any LinkedIn post related to AI.
+A fun Chrome Extension that obfuscates any LinkedIn post that contains content related to AI.
 # Why I created this?
 It's June 2025, and let's be honest AI fatigue is very real. Especially on LinkedIn, where every other post screams about AI, machine learning, or LLMs. So I built a fun Chrome Extension that blurs them all out. Instant AI detox for your feed.
 
