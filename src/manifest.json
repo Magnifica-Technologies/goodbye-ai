@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Goodbye AI",
+  "version": "1.0",
+  "description": "Highlights and obfuscates LinkedIn posts that mention AI or Artificial Intelligence",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.linkedin.com/feed/"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
