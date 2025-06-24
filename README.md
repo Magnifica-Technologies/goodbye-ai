@@ -5,7 +5,7 @@ It's June 2025, and let's be honest AI fatigue is very real. Especially on Linke
 
 # How to install the extension
 
-1. Download the zip file from the repo
+1. Download the zip file from the dist folder in the repo
 2. Unzip the file
 3. Go to chrome://extensions
 4. Enable Developer Mode
